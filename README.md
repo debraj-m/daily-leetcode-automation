@@ -663,6 +663,3 @@ This tool automates repetitive tasks for educational purposes only.
 
 ---
 
-**Version: 1.0.0**
-**Last Updated: March 25, 2026**
-**License: MIT**
